@@ -1,0 +1,63 @@
+...Update History...
+
+2009/2/15  ver.0.00　　  Posted to board.
+
+2009/2/22  ver.0.01    Cyclops effect removed.
+      Debug movement speed bug fixed. Effect actions added.
+      Connection room added to each world. 
+
+2009/3/10  ver.0.02    Various bug fixes. Added a description of
+      the game. Please start from the beginning. 
+　　　　　　Experimented with the minigame.　Made half of the Seabed map.
+
+2009/5/6   ver.0.03    Took a small break, then came back.
+　　　　　　Maps added to the Seabed and Telephone Pole maps.
+　　　　　　Added an effect.
+
+2009/7/4   ver.0.04    Busy...　Maps added to the Music and Seabed
+      maps.　You can now sit when no effect is equipped.
+　　　　　　Also made some general adjustments. 
+
+2009/8/14  ver.0.05    Major updates to the minigame. Chase and catch
+      the fish. Effects and maps added. 
+
+2009/10/23 ver.0.06    Added maps to the telephone pole and seabed maps.
+　　　　　　Broom and Watering Can effects added.
+
+2010/01/25 ver.0.07    Maps added to the Orange Maze, Apartments, 
+      and Tentacle tip maps.
+　　　　　　Effects added. Some of the effects' locations have changed. 
+　　　　　　Some other bug fixes and adjustments. 
+
+2010/01/27 ver.0.07(modified)
+　　　　　　Misc. bugs squashed. 
+      I remade some event-related movements, so there may be mistakes.
+　　　　　　I'll have to carefully examine them.
+
+2010/5/4   ver.0.08　　5 effects added. There's currently a total of 14.
+　　　　　　 Added some submaps to existing maps.　　
+　　　　　  The equipment was changed (Please start from the beginning). 
+       I'm sorry about the slow updates. 
+
+2010/8/30  ver.0.09    5 effects added. There's a total of 19.
+      Maps added. Various events added. Feeling a bit experimental. 
+      Compressed the .wav files to save space, so the
+      sound quality might seem a bit lower.
+      In the next update, the ending will be implemented.
+
+2011/5/4   ver.0.10    Added 5 effects. There's a total of 24.
+　　　　　　Ending implemented. There's several. 
+　　　　　　Sorry for taking so long. 
+
+
+2011/7/18  ver.0.15    Bug fixes, also added some variety.
+
+
+2012/4/1   ver.0.16    Misc.
+
+
+2012/4/2   ver.0.17    Effect actions added, bug fixes, and
+                       a few maps added.
+
+2013/8/18  ver.0.18    Bugfixes, and a few new maps added.
+
