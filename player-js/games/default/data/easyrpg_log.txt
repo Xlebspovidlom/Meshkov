@@ -1,0 +1,69 @@
+[2024-10-29 17:16:34] Debug: EasyRPG Player 0.8 (2023-04-29) started
+[2024-10-29 17:16:34] Debug: =======================================
+[2024-10-29 17:16:34] Debug: CLI: 
+[2024-10-29 17:16:34] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-10-29 17:16:34] Debug: Seeded the RNG with 1730204190.
+[2024-10-29 17:16:34] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-10-29 17:16:34] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-10-29 17:16:34] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-10-29 17:16:34] Debug: Detected encoding: ibm-5348_P100-1997. Files not found (0/1). Trying next.
+[2024-10-29 17:16:34] Debug: Detected encoding: ibm-5346_P100-1998. Files not found (0/1). Trying next.
+[2024-10-29 17:16:34] Debug: Detected encoding: UTF-16BE. Files not found (0/1). Trying next.
+[2024-10-29 17:16:34] Debug: Detected encoding: UTF-16LE. Files not found (0/1). Trying next.
+[2024-10-29 17:16:34] Debug: Detected encoding: windows-1254. Files not found (0/1). Trying next.
+[2024-10-29 17:16:34] Debug: Detected encoding: ibm-943_P15A-2003
+[2024-10-29 17:16:34] Debug: Game and Save Directory:
+[2024-10-29 17:16:34] Debug: 1: [Native]  -> .flow v.0.18 eng/data
+[2024-10-29 17:16:34] Debug: Loading game .flow
+[2024-10-29 17:16:34] Debug: Game does not need RTP (FullPackageFlag=1)
+[2024-10-29 17:16:34] Debug: Analyzing RPG_RT .flow v.0.18 eng/data/RPG_RT.exe
+[2024-10-29 17:16:34] Debug: EXEReader: EXFONT resource found (DE 0xacff8; 0xb040c; len 0x2168)
+[2024-10-29 17:16:34] Debug: ExFont loaded from RPG_RT
+[2024-10-29 17:16:34] Debug: EXEReader: VERSIONINFO not found
+[2024-10-29 17:16:34] Debug: RPG_RT information: version= logos=1 i386=true easyrpg=false
+[2024-10-29 17:16:34] Debug: Engine configured as: 2k=true 2k3=false MajorUpdated=true Eng=false
+[2024-10-29 17:16:34] Debug: Patch configuration: dynrpg=false maniac=false key-patch=true common-this=false pic-unlock=false 2k3-commands=false
+[2024-10-29 17:16:34] Debug: Cannot find: Font/Font
+[2024-10-29 17:16:34] Debug: Cannot find: Font/Font2
+[2024-10-29 17:16:34] Debug: Resolution changed to 320x240
+[2024-10-29 17:16:35] Debug: Starting new game
+[2024-10-29 17:16:35] Debug: Loaded Map Map0001.lmu
+[2024-10-29 17:16:35] Debug: Tree: はじめて
+[2024-10-29 17:16:38] Debug: Loaded Map Map0002.lmu
+[2024-10-29 17:16:38] Debug: Tree: 自室
+[2024-10-29 17:16:45] Debug: Loaded Map Map0105.lmu
+[2024-10-29 17:16:45] Debug: Tree: ベランダ < 自室
+[2024-10-29 17:16:46] Debug: Loaded Map Map0002.lmu
+[2024-10-29 17:16:46] Debug: Tree: 自室
+[2024-10-29 17:17:03] Debug: Saving to Save01.lsd
+[2024-10-29 17:17:12] Debug: Loaded Map Map0105.lmu
+[2024-10-29 17:17:12] Debug: Tree: ベランダ < 自室
+[2024-10-29 17:17:13] Debug: Loaded Map Map0002.lmu
+[2024-10-29 17:17:13] Debug: Tree: 自室
+[2024-10-29 17:17:48] Debug: Loaded Map Map0004.lmu
+[2024-10-29 17:17:48] Debug: Tree: フロウ < 自室
+[2024-10-29 17:17:52] Debug: Loaded Map Map0007.lmu
+[2024-10-29 17:17:52] Debug: Tree: ベランダf < マイルーム
+[2024-10-29 17:17:54] Debug: Loaded Map Map0006.lmu
+[2024-10-29 17:17:54] Debug: Tree: マイルーム
+[2024-10-29 17:18:01] Debug: Loaded Map Map0005.lmu
+[2024-10-29 17:18:01] Debug: Tree: エントランス
+[2024-10-29 17:18:09] Debug: Loaded Map Map0011.lmu
+[2024-10-29 17:18:09] Debug: Tree: 電柱 < エントランス
+[2024-10-29 17:18:29] Debug: Loaded Map Map0005.lmu
+[2024-10-29 17:18:29] Debug: Tree: エントランス
+[2024-10-29 17:18:33] Debug: Loaded Map Map0011.lmu
+[2024-10-29 17:18:33] Debug: Tree: 電柱 < エントランス
+[2024-10-29 17:18:35] Debug: Loaded Map Map0005.lmu
+[2024-10-29 17:18:35] Debug: Tree: エントランス
+[2024-10-29 17:18:38] Debug: Loaded Map Map0011.lmu
+[2024-10-29 17:18:38] Debug: Tree: 電柱 < エントランス
+[2024-10-29 17:18:40] Debug: Loaded Map Map0005.lmu
+[2024-10-29 17:18:40] Debug: Tree: エントランス
+[2024-10-29 17:18:43] Debug: Loaded Map Map0011.lmu
+[2024-10-29 17:18:43] Debug: Tree: 電柱 < エントランス
+[2024-10-29 17:18:45] Debug: Loaded Map Map0005.lmu
+[2024-10-29 17:18:45] Debug: Tree: エントランス
+[2024-10-29 17:18:54] Debug: Loaded Map Map0012.lmu
+[2024-10-29 17:18:54] Debug: Tree: 奇形 < エントランス
+[2024-10-29 17:20:33] Debug: Resolution changed to 320x240
